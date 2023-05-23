@@ -1,0 +1,6 @@
+name = "PBouffardJuliaPackageRegistry"
+uuid = "c6f79cb6-679d-4a68-bf70-9ce25d409fb1"
+repo = "git@github.com:pbouffard/PBouffardJuliaPackageRegistry.git"
+description = "My personal (public) registry"
+
+[packages]
