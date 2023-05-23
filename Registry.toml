@@ -4,3 +4,4 @@ repo = "git@github.com:pbouffard/PBouffardJuliaPackageRegistry.git"
 description = "My personal (public) registry"
 
 [packages]
+4542c7b1-ea73-42e5-9a85-c29583659a5a = { name = "PlotJuggler", path = "P/PlotJuggler" }
